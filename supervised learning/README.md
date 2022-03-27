@@ -10,7 +10,7 @@ Supervised learning can be separated into two types of problems when data mining
 - **Classification** uses an algorithm to accurately assign test data into specific categories.
 - **Regression** is used to understand the relationship between dependent and independent variables.
 
-## Content
+## Contents
 
 List of Supervised Learning Algorithms in this repository:
 - Classification
