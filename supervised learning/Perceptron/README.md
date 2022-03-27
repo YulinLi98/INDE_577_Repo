@@ -15,10 +15,4 @@ In this place, I changed the 'HeartDisease' column by replacing 'Yes' with 1 and
 ### Phase 2 - Predict Results
 I chose the sign activation function in my Perceptron algorithm, which is shown as below.
 
-<img src="https://render.githubusercontent.com/render/math?math= 
-    \phi(z) = \left\{
-        \begin{aligned}
-            1,\,z>0 \\
-            -1,\,z<0
-        \end{aligned}
-    }\right.">
+<img src="https://render.githubusercontent.com/render/math?math= \phi(z) = \left\{\begin{aligned} 1,\,z>0 \\ -1,\,z<0 \end{aligned}}\right.">
