@@ -13,6 +13,12 @@ The Perceptron is a binary classifier, meaning the result is meant to classify t
 In this place, I changed the 'HeartDisease' column by replacing 'Yes' with 1 and 'No' with -1, as the activation funciton I chose was the sign function.
 
 ### Phase 2 - Predict Results
-I chose the sign activation function in my Perceptron algorithm.
+I chose the sign activation function in my Perceptron algorithm, which is shown as below.
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+<img src="https://render.githubusercontent.com/render/math?math= 
+    \phi(z) = \left\{
+        \begin{aligned}
+            1,\,z>0 \\
+            -1,\,z<0
+        \end{aligned}
+    }\right.">
