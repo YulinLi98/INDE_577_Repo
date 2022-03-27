@@ -1,6 +1,6 @@
 # Supervised Learning
 
-![image](https://github.com/YulinLi98/Sample_Repo/blob/main/images/996ABA345B8936D629.png 400*300)
+![image](https://github.com/YulinLi98/Sample_Repo/blob/main/images/996ABA345B8936D629.png =400*300)
 
 Supervised learning, also known as supervised machine learning, is a subcategory of machine learning and artificial intelligence. It is defined by its use of labeled datasets to train algorithms that to classify data or predict outcomes accurately.
 
