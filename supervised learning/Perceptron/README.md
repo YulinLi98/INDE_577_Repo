@@ -1,5 +1,10 @@
 # The Perceptron
 
-The perceptron is an algorithm for supervised learning of binary classifiers. It is a type of linear classifier. There are generally four parts to implement perceptron, including input values, weights and bias, weighted sum and an activation function.
+The Perceptron is a supervised, single layer neural network binary classifier. It is a type of linear classifier.
 
-In this file, I applied the perceptron algorithm on the primary dataset, 2020 CDC Heart Disease Data. I chose the sign function as the activation fuction, and converted the 'HeartDisease' column my mapping 'Yes' to 1 and 'No' to -1. I also encoded other categorical variables by onehot encoding. Then I split the dataset into traning and testing data, trained the perceptron model on my training dataset and predicted on the testing dataset. Finally, I did some performance analysis.
+Typically, training the perceptron includes 3 steps. 
+- 1. We initialize the weights. Weights may be initialized to 0 or to a small random value.
+- 2. We choose an activation function. For each sample in the training dataset, performing the following steps:
+  - a. With the input, weights and activation function, we calculate the actual output.
+  - b. With actual outputs, true labels and learning rate, we update the weights.
+- 3. The 2nd step may be repeated until the iteration error is less than a specified error threshold, or a predetermined number of iterations has been completed.  
