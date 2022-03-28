@@ -2,6 +2,8 @@
 
 The Perceptron is a supervised, single layer neural network binary classifier. It is a type of linear classifier.
 
+![image](https://github.com/YulinLi98/Sample_Repo/blob/main/images/Perceptron.png)
+
 Typically, training the perceptron includes 3 steps. 
 1. We initialize the weights. Weights may be initialized to 0 or to small random values.
 2. We choose an activation function and learning rate. For each sample in the training dataset, performing the following steps:
