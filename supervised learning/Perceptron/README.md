@@ -1,6 +1,6 @@
 # The Perceptron
 
-The Perceptron is a supervised, single layer neural network binary classifier. It is a type of linear classifier.
+The Perceptron is a supervised, single layer neural network binary classifier. It is a type of linear classifier. The model structure is depicted in the figure below.
 
 ![image](https://github.com/YulinLi98/Sample_Repo/blob/main/images/Perceptron.png)
 
