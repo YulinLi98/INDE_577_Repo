@@ -11,4 +11,7 @@ Typically, training the perceptron includes 3 steps.
 
 The algorithm updates the weights after steps 2.1 and 2.2. These weights are immediately applied to a pair in the training set, and subsequently updated, rather than waiting until all pairs in the training set have undergone these steps.
 
-In this repository, we first build a perceptron class by scratch. Then we implement it with the CVDs dataset. At last, we do the performance analysis.
+In the jupyter notebook, we first build a perceptron class by scratch. Then we implement it with the CVDs dataset. At last, we do the performance analysis.
+
+## References
+The above introduction is mainly based on https://en.wikipedia.org/wiki/Perceptron. The coding part is mainly based on Dr. Davila's Lecture Notes.
