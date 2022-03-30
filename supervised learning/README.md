@@ -14,6 +14,6 @@ Supervised learning can be separated into two types of problems when data mining
 
 List of Supervised Learning Algorithms in this repository:
 - Classification
-  - [Perceptron](https://github.com/YulinLi98/Sample_Repo/blob/main/supervised%20learning/Perceptron/Perceptron.ipynb)
+  - [Perceptron](https://github.com/YulinLi98/Sample_Repo/blob/main/supervised%20learning/Perceptron)
 - Regression
-  - [Linear Regression](https://github.com/YulinLi98/Sample_Repo/blob/main/supervised%20learning/Linear%20Regression/Linear%20Regression.ipynb)
+  - [Linear Regression](https://github.com/YulinLi98/Sample_Repo/tree/main/supervised%20learning/Linear%20Regression)
