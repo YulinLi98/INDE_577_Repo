@@ -9,3 +9,6 @@ Outline:
 - Introduction
 - Algorithm
 - Coding
+
+## Reference
+Most of the contents in 'Linear Regression.ipynb' file are based on Dr. Davila's Lecture Notes.

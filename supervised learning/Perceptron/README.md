@@ -11,5 +11,5 @@ Outline:
 - Algorithm
 - Coding
 
-## References
+## Reference
 The introduction part is mainly based on https://en.wikipedia.org/wiki/Perceptron. The coding part is based on Dr. Davila's Lecture Notes.
