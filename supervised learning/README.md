@@ -17,3 +17,4 @@ List of Supervised Learning Algorithms in this repository:
   - [Perceptron](https://github.com/YulinLi98/Sample_Repo/blob/main/supervised%20learning/Perceptron)
 - Regression
   - [Linear Regression](https://github.com/YulinLi98/Sample_Repo/tree/main/supervised%20learning/Linear%20Regression)
+- Gradient Descent
