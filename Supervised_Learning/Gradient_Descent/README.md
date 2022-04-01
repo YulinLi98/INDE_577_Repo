@@ -12,4 +12,4 @@ Outline:
 - Conclusion
 
 ## Reference
-Most of the contents in 'Gradient Descent.ipynb' file are based on Dr. Davila's Lecture Notes.
+Most of the contents in 'Gradient_Descent.ipynb' file are based on Dr. Davila's Lecture Notes.

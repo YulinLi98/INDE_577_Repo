@@ -37,6 +37,12 @@ class SingleNeuron(object):
     predict(self, X)
         Uses the weights and bias, the feature vectors in X, and the 
         activation_function to make a y_hat prediction on each feature vector. 
+    
+    plot_cost_function(self)
+        Visualizes the cost after each epoch during training.
+
+    plot_decision_boundary(self, X, y, xstring="x", ystring="y")
+        Plot the decision region of single neuron model.
     """
     def __init__(self, activation_function, cost_function):
         self.activation_function = activation_function
