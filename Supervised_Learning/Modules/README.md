@@ -1,0 +1,1 @@
+This folder contains the implementation of single neuron model. 

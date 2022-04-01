@@ -3,7 +3,7 @@
 This folder contains the implementation of Linear Regression Single Neuron Model.
 
 ## File Description
-In 'Linear_Regression.ipynb' file, I first introduced the concept of regression algorithm and linear regression model. Then I illustrated the model algorithm, which is a single neuron model with the stochastic gradient descent in order to solve the linear regression problem. At last, I built the 'SingleNeuron' Class by scratch and implemented it on the CVDs dataset.
+In 'Linear_Regression.ipynb' file, I first introduced the concept of regression algorithm and linear regression model. Then I illustrated the model algorithm, which is a single neuron model with the stochastic gradient descent in order to solve the linear regression problem. At last, I implemented linear regression model on the CVDs dataset.
 
 Outline:
 - Introduction
