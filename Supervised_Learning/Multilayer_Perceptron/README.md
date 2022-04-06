@@ -1,6 +1,6 @@
-# Deep Neural Network
+# Multilayer Perceptron
 
-This folder contains the implementation of Deep Neural Network model.
+This folder contains the implementation of Multilayer Perceptron model.
 
 ## File Description
 In 'Multilayer_Perceptron.ipynb' file, I first introduced the concept of multilayer perceptron model. Then I illustrated the model algorithm. At last, I applied the multilayer perceptron model on the CVDs dataset.
