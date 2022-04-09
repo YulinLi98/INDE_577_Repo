@@ -9,8 +9,8 @@ Outline:
 - Introduction
 - Algorithm
 - Advantages and Disadvantages
-- Coding
-- Conclusion
+- k-NN Classification
+- k-NN Regression
 
 ## Reference
 Most of the contents in 'k-Nearest_Neighbors.ipynb' file are based on Dr. Davila's Lecture Notes.
