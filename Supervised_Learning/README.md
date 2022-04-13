@@ -13,8 +13,11 @@ Supervised learning can be separated into two types of problems when data mining
 ## Contents
 
 List of Supervised Learning Algorithms in this repository:
-- Classification
-  - [Perceptron](https://github.com/YulinLi98/Sample_Repo/blob/main/supervised%20learning/Perceptron)
-- Regression
-  - [Linear Regression](https://github.com/YulinLi98/Sample_Repo/tree/main/supervised%20learning/Linear%20Regression)
-- Gradient Descent
+- [Perceptron](https://github.com/YulinLi98/Sample_Repo/blob/main/Supervised_Learning/Perceptron)
+- [Linear Regression](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Linear_Regression)
+- [Gradient Descent](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Gradient_Descent)
+- [Logistic Regression](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Logistic_Regression)
+- [Multilayer Perceptron](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Multilayer_Perceptron)
+- [k-Nearest Neighbors](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/k-Nearest_Neighbors)
+- [Decision Trees](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Decision_Tree)
+- [Ensenble Learning](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Ensenble_Learning)
