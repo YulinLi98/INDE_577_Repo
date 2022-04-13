@@ -4,7 +4,7 @@ This folder contains the implementation of the perceptron model.
 
 ## File Description
 
-In 'Perceptron.ipynb' file, I first briefly introduced the perceptron model, and illustrated its algorithm. Then I built the 'Perceptron' class by scratch and implemented it with the CVDs dataset. At last, I did some performance analysis.
+In '[Perceptron.ipynb](https://github.com/YulinLi98/Sample_Repo/blob/main/Supervised_Learning/Perceptron/Perceptron.ipynb)' file, I first briefly introduced the perceptron model, and illustrated its algorithm. Then I built the 'Perceptron' class by scratch and implemented it with the CVDs dataset. At last, I did some performance analysis.
 
 Outline:
 - Introduction
