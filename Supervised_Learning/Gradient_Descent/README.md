@@ -12,4 +12,4 @@ Outline:
 - Conclusion
 
 ## Reference
-Most of the contents in 'Gradient_Descent.ipynb' file are based on Dr. Davila's Lecture Notes.
+Most of the contents in 'Gradient_Descent.ipynb' file are based on Dr. Davila's Lecture Notes and the text book 'Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow'.
