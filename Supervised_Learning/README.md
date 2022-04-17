@@ -20,4 +20,4 @@ List of Supervised Learning Algorithms in this repository:
 - [Multilayer Perceptron](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Multilayer_Perceptron)
 - [k-Nearest Neighbors](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/k-Nearest_Neighbors)
 - [Decision Trees](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Decision_Tree)
-- [Ensenble Learning](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Ensenble_Learning)
+- [Ensemble Learning](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Ensemble_Learning)

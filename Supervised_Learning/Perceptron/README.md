@@ -13,4 +13,4 @@ Outline:
 - Conclusion
 
 ## Reference
-The introduction part is mainly based on https://en.wikipedia.org/wiki/Perceptron. The coding part is based on Dr. Davila's Lecture Notes.
+The introduction part is mainly based on https://en.wikipedia.org/wiki/Perceptron. The coding part is based on Dr. Davila's Lecture Notes and the text book 'Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow'.
