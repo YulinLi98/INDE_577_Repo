@@ -12,4 +12,4 @@ Outline:
 - Conclusion
 
 ## Reference
-Most of the contents in 'Logistic_Regression.ipynb' file are based on Dr. Davila's Lecture Notes.
+Most of the contents in 'Logistic_Regression.ipynb' file are based on Dr. Davila's Lecture Notes and our text book 'Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow'.
