@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Unupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning), also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention. Its ability to discover similarities and differences in information make it the ideal solution for exploratory data analysis, cross-selling strategies, customer segmentation, and image recognition.
+[Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning), also known as unsupervised machine learning, uses machine learning algorithms to analyze and cluster unlabeled datasets. These algorithms discover hidden patterns or data groupings without the need for human intervention. Its ability to discover similarities and differences in information make it the ideal solution for exploratory data analysis, cross-selling strategies, customer segmentation, and image recognition.
 
 Unsupervised learning models are utilized for three main tasks—clustering, association, and dimensionality reduction: 
 
