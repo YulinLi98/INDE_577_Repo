@@ -15,5 +15,5 @@ Unsupervised learning models are utilized for three main tasks—clustering, ass
 ## Contents
 
 List of Unsupervised Learning Algorithms in this repository:
-- [Principle_Component_Analysis]()
-- [K-Means_Clustering]()
+- [Principle_Component_Analysis](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Unsupervised_Learning/Principle_Component_Analysis)
+- [K-Means_Clustering](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Unsupervised_Learning/K-Means_Clustering)

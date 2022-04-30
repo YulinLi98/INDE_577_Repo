@@ -13,11 +13,11 @@ Supervised learning can be separated into two types of problems when data mining
 ## Contents
 
 List of Supervised Learning Algorithms in this repository:
-- [Perceptron](https://github.com/YulinLi98/Sample_Repo/blob/main/Supervised_Learning/Perceptron)
-- [Linear Regression](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Linear_Regression)
-- [Gradient Descent](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Gradient_Descent)
-- [Logistic Regression](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Logistic_Regression)
-- [Multilayer Perceptron](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Multilayer_Perceptron)
-- [k-Nearest Neighbors](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/k-Nearest_Neighbors)
-- [Decision Trees](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Decision_Tree)
-- [Ensemble Learning](https://github.com/YulinLi98/Sample_Repo/tree/main/Supervised_Learning/Ensemble_Learning)
+- [Perceptron](https://github.com/YulinLi98/RICE_INDE577_Repo/blob/main/Supervised_Learning/Perceptron)
+- [Linear Regression](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/Linear_Regression)
+- [Gradient Descent](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/Gradient_Descent)
+- [Logistic Regression](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/Logistic_Regression)
+- [Multilayer Perceptron](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/Multilayer_Perceptron)
+- [k-Nearest Neighbors](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/k-Nearest_Neighbors)
+- [Decision Trees](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/Decision_Tree)
+- [Ensemble Learning](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/Ensemble_Learning)
