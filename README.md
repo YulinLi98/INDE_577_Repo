@@ -11,6 +11,7 @@ This repository contains the code and documentations for the project of INDE 577
 ## Course Instructor
 
 Instructor: Dr. Randy R. Davila
+
 Email: rrd6@rice.edu
 
 
