@@ -24,7 +24,7 @@ Email: rrd6@rice.edu
 
 ### Datasets
 
-The primary dataset I used in this project is the Cardiovascular diseases dataset. This dataset divides patients into those with and without heartdisease using different attributes such as resting blood pressure and serum cholesterol. Please check [Exploratory_Data_Analysis.ipynb](https://github.com/YulinLi98/RICE_INDE577_Repo/blob/main/Exploratory_Data_Analysis.ipynb) to see the data analysis on CVDs dataset. In this repository, I implement classification models on this data set.
+The primary dataset I used in this project is the Cardiovascular diseases dataset. This dataset divides patients into those with and without heartdisease using different attributes such as resting blood pressure and serum cholesterol. Please check [Exploratory_Data_Analysis.ipynb](https://github.com/YulinLi98/RICE_INDE577_Repo/blob/main/Exploratory_Data_Analysis.ipynb) to see the data analysis. In this repository, I implement classification models on this data set.
 
 The secondary dataset is the diabetes dataset from Scikit-Learn. I mainly implement regression models on this secondary dataset.
 
