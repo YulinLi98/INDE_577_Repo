@@ -30,7 +30,7 @@ The secondary dataset is the diabetes dataset from Scikit-Learn. I mainly implem
 
 ### Modules 
 
-There are a total of 10 modules in this repository. Each of them can be found in either Supervised_Learning folder or Unsupervised_Learning folder. The modules are listed as below: 
+There are a total of 10 modules in this repository. Each of them can be found in either [Supervised_Learning](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning) folder or [Unsupervised_Learning](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Unsupervised_Learning) folder. The modules are listed as below: 
 
 - Supervied Learning
     - [Perceptron](https://github.com/YulinLi98/RICE_INDE577_Repo/tree/main/Supervised_Learning/Perceptron)
