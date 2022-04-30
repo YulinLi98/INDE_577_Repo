@@ -1,29 +1,23 @@
 # Rice INDE 577 - Data Science and Machine Learning
 
----
-
 Creator: Yulin Li
 
----
 
 ## Course Description
 
 This repository contains the code and documentations for the project of INDE 577, Data Science and Machine Learning, at Rice University in Spring 2022. In the course, we learned machine learning algorithms by using python language. Course topics consist of supervised learning, unsupervised learning and reinforcement learning methods.
 
----
 
 ## Course Instructor
 
 Instructor: Dr. Randy R. Davila
 Email: rrd6@rice.edu
 
----
 
 ## Textbook
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
 - Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
 
---- 
 
 ## Repository Content
 
@@ -51,7 +45,6 @@ There are a total of 10 modules in this repository. Each of them can be found in
     - [K-Means Clustering]()
     - [Principle Component Analysis]()
 
----
 
 ## Programming Tools
 - Python (version 3.9.7)
